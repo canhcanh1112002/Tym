@@ -70,8 +70,8 @@
   width: 40%;
   height: 40%;
   position: absolute;
-  top: 40%;
-  left: 20%;
+  top: 45%;
+  left: 30%;
   transform: translate(-50%, -50%);
   opacity: 0.5;
   animation: zoom-in-zoom-out 2s ease infinite;
