@@ -20,11 +20,11 @@
   --color-3: #ACCFCB;
 }
 
-.title-word-4 {
+/* .title-word-4 {
   --color-1: #3D8DAE;
   --color-2: #DF8453;
   --color-3: #E4A9A8;
-}
+} */
 
 @keyframes color-animation {
   0% {
@@ -70,7 +70,7 @@
   width: 40%;
   height: 40%;
   position: absolute;
-  top: 42%;
+  top: 41%;
   left: 28.5%;
   transform: translate(-50%, -50%);
   opacity: 0.4;
