@@ -73,7 +73,7 @@
   top: 38%;
   left: 29%;
   transform: translate(-50%, -50%);
-  opacity: 0.5;
+  opacity: 0.3;
   animation: zoom-in-zoom-out 2s ease infinite;
   z-index: 1;
 }
