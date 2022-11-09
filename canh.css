@@ -71,7 +71,7 @@
   height: 43%;
   position: absolute;
   top: 38%;
-  left: 10%;
+  left: 11%;
   transform: translate(-50%, -50%);
   opacity: 0.5;
   animation: zoom-in-zoom-out 2s ease infinite;
