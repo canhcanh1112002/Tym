@@ -67,11 +67,11 @@
 }
 
 .img {
-  width: 50%;
-  height: 50%;
+  width: 45%;
+  height: 45%;
   position: absolute;
   top: 38%;
-  left: 40%;
+  left: 38%;
   transform: translate(-50%, -50%);
   opacity: 0.5;
   animation: zoom-in-zoom-out 2s ease infinite;
