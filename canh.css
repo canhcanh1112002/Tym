@@ -67,10 +67,10 @@
 }
 
 .img {
-  width: 43%;
-  height: 43%;
+  width: 40%;
+  height: 40%;
   position: absolute;
-  top: 38%;
+  top: 35%;
   left: 16%;
   transform: translate(-50%, -50%);
   opacity: 0.5;
