@@ -22,7 +22,7 @@ body {
     color: rgba(255, 196, 200, 0.842);
     font-family: "Raleway", sans-serif;
     font-size: 60pt;
-    text-align: center;
+    text-align: left;
 
     user-select: none;
 }
@@ -34,7 +34,7 @@ body {
     top: 41%;
     left: 28.5%;
     transform: translate(-50%, -50%);
-    opacity: 0.4;
+    opacity: 0.7;
     animation: zoom-in-zoom-out 2s ease infinite;
     z-index: 1;
 }
