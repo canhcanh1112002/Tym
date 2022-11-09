@@ -63,14 +63,13 @@
   text-align: center
 }
 
-.img {
-  place-items: center;
-  text-align: center;
-  position: relative;
+.img {  
   width: 18%;
   height: 18%;
-  top: 400px;
-  left: 933px;
+  position: absolute;
+  top: 38%;
+  left: 40%;
+  transform:translate(-50%,-50%);
   opacity: 0.5;
   animation: zoom-in-zoom-out 2s ease infinite;
   z-index: 1;
